@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Constantinos, commonly called by my nickanme of "Costpap", an 18 year old living in Athens, Greece.
+I'm Constantinos, commonly called by my nickname of "Costpap", an 18 year old living in Athens, Greece.
 
 ### What can I do?
 I can currently write applications in JavaScript and, soon, [TypeScript](https://typescriptlang.org).
