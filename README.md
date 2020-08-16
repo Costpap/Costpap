@@ -2,7 +2,7 @@
 I'm Constantinos, commonly called by my nickname of "Costpap", an 18 year old living in Athens, Greece.
 
 ### What can I do?
-I can currently write applications in JavaScript and, soon, [TypeScript](https://typescriptlang.org).
+I can currently write applications in JavaScript and [TypeScript](https://typescriptlang.org).
 
 ### How can you get in touch with me?
 You can currently contact me on:
