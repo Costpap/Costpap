@@ -4,7 +4,7 @@ I'm Constantinos, commonly called by my nickname of "Costpap", an 18 year old li
 ### What can I do?
 I can currently write applications in JavaScript and [TypeScript](https://typescriptlang.org).
 
-### How can you get in touch with me?
+### 📞 How can you get in touch with me?
 You can currently contact me on:
 - [Discord](https://discord.com): Costpap#0006
 - [Twitter: costpapcostpap](https://twitter.com/costpapcostpap)
