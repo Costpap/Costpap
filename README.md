@@ -9,7 +9,9 @@ You can currently contact me on:
 - [Discord](https://discord.com): Costpap#0006
 - [Twitter: costpapcostpap](https://twitter.com/costpapcostpap)
 
-### Here are some fancy graphs:
-[![Costpap's github stats](https://github-readme-stats.vercel.app/api?username=costpap&count_private=true&show_icons=true)](https://github.com/costpap?tab=repositories)
-[![Costpap's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=costpap)](https://github.com/costpap?tab=repositories)
-
+<div align="center">
+<br role="presentation" />
+<p><h2>Here are some fancy graphs:</h2></p>
+<a href="https://github.com/costpap?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=costpap&count_private=true&show_icons=true&theme=github_dark" alt="Costpap's GitHub Stats"/></a>
+<a href="https://github.com/costpap?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=costpap&theme=github_dark" alt="Costpap's Top Languages"/></a>
+</div>
