@@ -19,7 +19,9 @@ You can currently contact me on:
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costpap&theme=github_dark&title_color=6293f5&bg_color=00000000&hide_border=true" alt="Costpap's Top Languages"/>
     </td>
-    <td align="center" style="padding=0;width=50%;">
+  </tr>
+  <tr>
+    <td align="center" colspan="2" style="padding=0;width=50%;">
     <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/wakatime?username=costpap&theme=github_dark&title_color=6293f5&bg_color=00000000&hide_border=true" alt="Costpap's WakaTime stats"/>
     </td>
   </tr>
