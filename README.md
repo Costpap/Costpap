@@ -8,6 +8,7 @@ I can currently write applications in JavaScript and [TypeScript](https://typesc
 You can currently contact me on:
 - [Discord](https://discord.com): Costpap#0006 (ID: `312629697567522817`)
 - [Twitter: costpapcostpap](https://twitter.com/costpapcostpap)
+- [The Fediverse](https://fedi.tips) (Mastodon, to be precise): [@con@s.costpap.me](https://s.costpap.me/@con)
 
 <br role="presentation" />
 <p><h2>Here are some fancy graphs:</h2></p>
