@@ -6,7 +6,7 @@ I can currently write applications in JavaScript and [TypeScript](https://typesc
 
 ### 📞 How can you get in touch with me?
 You can currently contact me on:
-- [Discord](https://discord.com): Costpap#0006 (ID: `312629697567522817`)
+- [Discord](https://discord.com): costpap (ID: `312629697567522817`)
 - [Twitter: costpapcostpap](https://twitter.com/costpapcostpap)
 - [The Fediverse](https://fedi.tips) (Mastodon, to be precise): [@con@s.costpap.me](https://s.costpap.me/@con)
 
